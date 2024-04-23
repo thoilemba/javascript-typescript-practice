@@ -9,6 +9,7 @@
 6. ***Symbol:*** Introduced in ECMAScript 6 (ES6), symbols are unique and immutable data types, often used to create unique identifiers.
 7. ***BigInt***: It is used to store large integers. It is created by appending `n` to the end of an integer. It represents integers of arbitrary size, so it doesn't have a specific range limit.
 
+Javascript is a dynamically-typed language which means that the type of the variable can be changed even after it is declared. In statically-typed language, we cannot changed the type of variable once it is declared.
 
 Reference: 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
